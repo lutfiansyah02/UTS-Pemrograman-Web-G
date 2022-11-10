@@ -1,0 +1,6 @@
+.background {
+    background:url(image/gambar.png);
+    background-size:cover; 
+      padding-top: 10%; 
+      padding-bottom: 10%;
+}
